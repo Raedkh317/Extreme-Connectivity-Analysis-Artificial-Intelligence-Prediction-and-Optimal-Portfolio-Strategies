@@ -1,0 +1,2 @@
+# Extreme-Connectivity-Analysis-Artificial-Intelligence-Prediction-and-Optimal-Portfolio-Strategies
+This research investigates how financial markets respond to extreme shocks and how artificial intelligence can enhance risk prediction and portfolio resilience. Using a hybrid framework that combines Quantile Vector Autoregression (QVAR) with machine learning algorithms, the study provides new insights into systemic risk and asset allocation.
